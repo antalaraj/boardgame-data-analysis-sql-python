@@ -134,7 +134,7 @@ All data preprocessing was performed in **SQL Server** to ensure a clean, consis
 **Raj Antala**  
 🎓 PGDM Student in **AI and Data Science**  
 🏫 **Adani Institute of Digital Technology Management (AIDTM)**  
-📍 Ahmedabad, India  
+📍 Gandhinagar, India  
 💡 Passionate about turning data into meaningful insights and building intelligent systems.  
 📧 antalaraj214@gmail.com
 🔗 [LinkedIn Profile](www.linkedin.com/in/antala-raj)
